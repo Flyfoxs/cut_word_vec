@@ -2,7 +2,9 @@
 
 ### 腾讯词向量的可视化
 
-具体code可参考[Jupyter Notebook] (https://github.com/Flyfoxs/cut_word_vec/blob/master/notebook/visual.ipynb)
+具体code可参考[Jupyter Notebook](https://github.com/Flyfoxs/cut_word_vec/blob/master/notebook/visual.ipynb)
+
+由于原始维度比较多,词的个数也比较多,所以显示的比较拥挤. 但是还是可以很明显的看出意义相近的词有聚拢的趋势.
 
 ![Word Vec Screenshot](https://raw.githubusercontent.com/Flyfoxs/cut_word_vec/master/imgs/word_vec.png)
 
